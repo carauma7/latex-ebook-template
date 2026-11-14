@@ -34,5 +34,5 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 - For specific usage permissions beyond these terms, please contact the copyright holder.
 
 ## Contact
-Janderson Gomes (@jndgomes)
-Website: https://artientista.blogspot.com
+Janderson Gomes (Caraumã) (@carauma7)
+Website: https://carauma.com
