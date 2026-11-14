@@ -1,6 +1,6 @@
 # MIT License with Content Protection Clauses
 
-Copyright (c) 2024 Janderson Gomes (Carauman Project)
+Copyright (c) 2024-2026 Janderson Gomes (Carauman Project)
 
 ## Permission and Conditions
 
